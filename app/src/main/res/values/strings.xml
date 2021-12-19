@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chuck Norris</string>
+    <string name="chiste"></string>
+    <string name="recargar">Recargar</string>
+</resources>
